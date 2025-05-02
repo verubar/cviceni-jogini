@@ -1,0 +1,29 @@
+{
+  "name": "cviceni-jogini",
+  "version": "1.0.0",
+  "main": "index.js", 
+  "scripts": {
+    "dev": "vite", 
+    "build": "vite build", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verubar/cviceni-jogini.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verubar/cviceni-jogini/issues"
+  },
+  "homepage": "https://github.com/verubar/cviceni-jogini#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1", 
+    "vite": "^4.4.0", 
+    "live-server": "^1.2.0" 
+  },
+  "dependencies": {
+    "@czechitas/render": "^0.3.1"
+  },
+  "description": ""
+}
